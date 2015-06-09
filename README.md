@@ -11,6 +11,7 @@ Facts
 Description
 -----------
 Created by [Lightnest](http://www.lightnest.co.uk)
+
 We just added the possibility to install this language pack with Composer.
 
 Compatibility
@@ -40,5 +41,4 @@ Staempfli Locale (en_GB) is licensed under the MIT License - see the LICENSE fil
 
 Copyright
 ---------
-(c) 2015, Stämpfli AG
-(c) 2015, Lightnest
+(c) 2015 Stämpfli AG, Lightnest
