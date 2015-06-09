@@ -1,0 +1,10 @@
+{
+    "name": "staempfli/locale-en-gb",
+    "license": ["MIT"],
+    "type": "magento-module",
+    "description": "British (en_GB) Magento language pack.",
+    "homepage": "https://github.com/staempfli/magento-locale-en-gb",
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
