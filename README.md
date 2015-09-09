@@ -1,10 +1,29 @@
-Staempfli Locale (en_GB)
+# Englisches Sprachpaket für Magento (CE)
+(Magento Community Modules - English (Great Britain) Language Pack)
+
+# Installation instructions / Installationshinweise
+
+You should install the following / Sie sollten Folgendes installieren:
+
+*  [German LocaleFallback](https://github.com/MaWoScha/German_LocaleFallback)
+*  [Staempfli Locale (en_GB)](https://github.com/staempfli/magento-locale-en-gb)
+
+Logout from the backend once, if not already done. Then in the configuration under "Locale Options" set the "locale" as "en_GB". The extension [German LocaleFallback](https://github.com/MaWoScha/German_LocaleFallback) now allows you, in addition set "Fallback language" as "en_US".
+
+Melden Sie sich zunächst einmal aus dem Backend ab, falls nicht schon geschehen. Danach stellen Sie in der Konfiguration unter "Optionen für Lokalisierungen" für die "Sprachumgebung" "en_GB" ein. Die Erweiterung [German LocaleFallback](https://github.com/MaWoScha/German_LocaleFallback) erlaubt Ihnen nun, zusätzlich als "Ausweichsprache" "en_US" festzulegen.
+
+# Änderungen zu Version 0.1.0
+
+Es müssen jetzt nur die Einträge erfasst werden, wo das britische Englisch (en_GB) vom amerikanischen Englisch (en_US) abweicht. "Fehlende" Einträge werden durch die Erweiterung [German LocaleFallback](https://github.com/MaWoScha/German_LocaleFallback) aus dem en_US language pack "nachgeladen".
+
+
+# Staempfli Locale (en_GB)
 =============
 Staempfli Locale (en_GB) provides a British language pack
 
 Facts
 -----
-- version: 0.0.2
+- version: 0.1.0
 - [extension on GitHub](https://github.com/staempfli/magento-locale-en-gb)
 - [direct download link](https://github.com/staempfli/magento-locale-en-gb/archive/master.zip)
 
