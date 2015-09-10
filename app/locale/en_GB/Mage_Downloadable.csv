@@ -1,0 +1,8 @@
+"Can't connect to remote host, error: %s","Can not connect to remote host, error: %s"
+"Disable Guest Checkout if cart contains downloadable items","Disable Guest Checkout if basket contains downloadable items"
+"Excl. Tax","Excl. VAT"
+"Incl. Tax","Incl. VAT"
+"Requested link doesn't exist.","Requested link does not exist."
+"Shipped","Dispatched"
+"Sorry, the was an error getting requested content. Please contact store owner.","Sorry, the was an error getting requested content. Please contact shop owner."
+"Sorry, there was an error getting requested content. Please contact store owner.","Sorry, there was an error getting requested content. Please contact shop owner."

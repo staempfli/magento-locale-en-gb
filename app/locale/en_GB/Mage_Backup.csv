@@ -4,3 +4,4 @@
 "Backup file handler don't specify","Backup file handler do not specify"
 "Backup file path don't specify","Backup file path do not specify"
 "Cannot read backup file","Unable to read backup file"
+"Unable to create backup. Please, try again later.","Unable to create backup. Please try again later."
